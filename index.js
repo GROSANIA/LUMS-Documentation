@@ -6,7 +6,7 @@ function showNav() {
   
     if (Wval === 0 && Hval === 0) {
       bNavElement.style.width = "50vw";
-      bNavElement.style.height = "auto";
+      bNavElement.style.height = "90vh";
     } else {
       bNavElement.style.width = "0";
       bNavElement.style.height = "0";
